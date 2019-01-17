@@ -7,7 +7,7 @@ import org.testng.Assert;
 import com.relevantcodes.extentreports.LogStatus;
 
 public class ReportUtil {
-
+ 
 	/**
 	 * The WebDriver driver
 	 */
